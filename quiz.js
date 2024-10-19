@@ -45,5 +45,3 @@ if (submitButton) {
 } else {
     console.error("Submit button not found!"); // Log an error if the button is not found
 }
-}
-
